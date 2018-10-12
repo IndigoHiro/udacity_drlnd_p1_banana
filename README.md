@@ -75,3 +75,12 @@ contain the trained model by priority Double DQN and vanilla DQN, respectively.
 Follow the instructions in the notebook to run those models.
 
 You can also find a short report for some training results in `report.pdf`.
+
+
+### References
+
+- Repository of the Udacity Deep Reinforcement Learning Nanodegree [here](https://github.com/udacity/deep-reinforcement-learning)
+
+- Tom Schaul, et al. "Prioritized Experience Replay" [here](https://arxiv.org/abs/1511.05952)
+
+- Hado van Hasselt, et al. "Deep Reinforcement Learning with Double Q-learning" [here](https://arxiv.org/abs/1509.06461)
