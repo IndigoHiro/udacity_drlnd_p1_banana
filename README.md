@@ -73,3 +73,5 @@ You can also see how an already trained model works without training the agent y
 `p1_navigation/priority_ddqn_model.pth` and `p1_navigation/vanilla_dqn.pth`
 contain the trained model by priority Double DQN and vanilla DQN, respectively.
 Follow the instructions in the notebook to run those models.
+
+You can also find a short report for some training results in `report.pdf`.
